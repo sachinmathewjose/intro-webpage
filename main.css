@@ -1,0 +1,41 @@
+h1 {
+	font-size: 32px;
+	text-align: center;
+}
+
+body {
+	display: inline;
+	font-family: Georgia, serif;
+	margin: 0;
+}
+.Container {
+  display: flex;
+}
+.Personal {
+	padding: 20px;
+  background-color: lightblue;
+  max-width: 150%;
+  min-width: 140px;
+}
+.Professional {
+	padding: 20px;
+  background-color: lightgreen;
+  max-width: 150%;
+  min-width: 140px;
+}
+.Academic {
+	padding: 20px;
+  background-color: pink;
+  max-width: 150%;
+  min-width: 140px;
+}
+.Experience {
+	padding: 20px;
+  background-color: magenta;
+  max-width: 150%;
+  min-width: 140px;
+}
+.foot {
+	padding: 100px;
+	text-align: center;
+}
